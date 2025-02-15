@@ -26,7 +26,7 @@ web3 sec specific weaknesses
 - Lack of depth knowledge in major protocol types
 - Lack of knowledge even in common & intermediate ones. That is why even if something is a vuln and easy to spot I can't find it. 
 - I can't write good reports. 
-- I lack intermidiate development knowledge of smart contracts, which makes auditing even more difficult for me.
+- I lack of knowledge of vulnerabilities, which makes auditing even more difficult for me.
 - I don't stay upto date with the updates happening in the space.
 
 ## Liquidation vuln
