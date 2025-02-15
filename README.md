@@ -9,16 +9,15 @@ Strengths
 - If given enough time I can grasp a particular topic
 
 Weakness
-- Lazy
-- Scared to dive deeper
+- not diving deeper
 - Unclear long term goal
 - scattered focus
-- lack of discipline
-- drawn towards external validation
+
+
 - no commitment to a particular goal
 - inconsistency
 - lack of execution
-- too emotional, I don't take decision based on what I need to do. I do what I feel like at the moment.
+
 - no specialization on something and not good enough at everything
 - overthinking
 
@@ -27,7 +26,7 @@ web3 sec specific weaknesses
 - Lack of depth knowledge in major protocol types
 - Lack of knowledge even in common & intermediate ones. That is why even if something is a vuln and easy to spot I can't find it. 
 - I can't write good reports. 
-- I lack basic development knowledge of smart contracts, which makes auditing even more difficult for me.
+- I lack intermidiate development knowledge of smart contracts, which makes auditing even more difficult for me.
 - I don't stay upto date with the updates happening in the space.
 
 ## Liquidation vuln
